@@ -5,10 +5,12 @@ Primeramente se ejecutará
 ```
   pip install -r requirements.txt
 ```
-
-Luego se ejecutara el archivo con --> 
+Luego se ejecutara el archivo con
 ```
   python app.py
 ```
-
+Y finalmente instalaras
+```
+  python -m spacy download es_core_news_sm
+```
 Y luego podrás acceder a la ruta que te indica para probar el funcionamiento de la pagina
